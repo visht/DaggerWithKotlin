@@ -1,5 +1,8 @@
 # DaggerWithKotlin
 
+Comment:- This project is created only for those learners who wiling to learn Dagger with kotlin. Then this is a good start for you guys
+
+
 This project sample illustrates dagger with kotlin work flow
 
 This simply illustrates the work pattern of following libraries as used:-
