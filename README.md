@@ -10,7 +10,7 @@ b:- dagger - compiler using kapt for kotlin
 
 c:- using javax jsr 
 
-Note:- Dagger comes is pattern so that dependency is injected like Directed Acyclic graph and hence DAGger coms from.
+Note:- Dagger comes is pattern so that dependency is injected like Directed Acyclic graph and hence DAGger comes from.
 
 It has following annotations:-
 
